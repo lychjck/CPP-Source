@@ -126,6 +126,7 @@
     <ClInclude Include="MyArray.hpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="test.cpp" />
     <ClCompile Include="源.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
